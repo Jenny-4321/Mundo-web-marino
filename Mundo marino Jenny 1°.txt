@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head center>
+
+<title>Mundo Marino</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="css/boostrap.min.css">
+<script src="js/jquery.min.js"></script>
+<script src="js/boostrap.min.js"></script>
+<!--Estilos-->
+<style>
+.jumbotron{
+background-color:
+#5E74A1;
+color: #ffffff;
+padding: 100px 25px;
+font-family: sans-serif;
+text-aling: center}
+
+.container-fluid{
+padding: 40px 50px;}
+
+bg-gray{background-color: #210ebd;}
+
+</style>
+</head>
+<body>
+<header>
+<div class="jumbotron">
+<h1>Mundo Marino</h1>
+<p>Sumergete en un universo azul</p>
+<form class= "form-inline">
+<input type="email" size="50" placeholder="Dirección de correo">
+<button type="button" class="btn btn-success">Suscribirse</button>
+</form>
+</div>
+</header>
+<!--Sección Acerca de-->
+<section class="container-fluid">
+<div class="row">
+<h2>Acerca de nuestra compañía</h2>
+<h4>Somos una organización destinada a ayudar a los animales que viven en mar </h4>
+<p>y concientizar a las personas de no contaminar rios y mares.</p>
+
+<button class="btn btn-primary">Mas Informacion</button>
+</div>
+
+</section class="container-fluid" bg=gray>
+<h2>Nuestros valores</h2>
+<p><strong>MISIÓN:</strong>Ayudar a los seres vivos que habitan en el mar.</p>
+<p><strong>VISIÓN:</strong>Un mundo mejor para la vida marina, un oceano en el que habiten todos los seres vivos marainos desde el pez más pequeño hasta la ballena más grande. </p>
+<p><strong>VALORES:</strong> Fe, Amor, Paz, Resiliencia, Amabilidad.</p>
+</section>
+<!--Sección Tiendas-->
+<section class="container-fluid text-center bg-gray">
+ <p>Si gustas puedes ayudarnos con la compra de articulos marinos para recaudar fondos para la compra de herramientas que nos ayudaran a preservar la vida en mar.</p>
+ <h2>Tiendas</h2><br>
+ <h4>Nuestras sucursales</h4>
+ <div class="row text-center">
+<!-- Columna 1-->
+  <div class="col-sm-4">
+  <img src="https://www.guia33.com/wp-content/uploads/8-6.jpg" alt="Tienda A" width="200" height="200">
+  <p><strong>Tienda A</strong></p>
+  <p>Artículos</p>
+  </div>
+  
+ </div>
+ <div class="row text-center">
+  <!--Columna 2-->
+  <div class="col.sm-4"
+  
+ </section>
+
+</body>
+</html>
